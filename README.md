@@ -50,6 +50,6 @@ Hi there! I'm a passionate Frontend Web Developer with a focus on creating clean
 
 - **Email**: sudhanshujha164@gmail.com
 
-## **Feel free to check out my work and get in touch for collaboration or feedback. Thanks for visiting my profile!**
+## Feel free to check out my work and get in touch for collaboration or feedback. Thanks for visiting my profile!
 
-## **Thanks for visiting my GitHub! ✨ Let's build something amazing together!**
+**Thanks for visiting my GitHub! ✨ Let's build something amazing together!**
