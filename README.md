@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋
 
-Hi there! I'm a passionate Frontend Web Developer with a focus on creating clean, responsive, and user-friendly web experiences using HTML, CSS, and JavaScript. My goal is to deliver high-quality projects that not only look great but also function seamlessly across different devices.
+I'm Sudhanshu Jha, a passionate Frontend Web Developer dedicated to crafting clean, responsive, and user-friendly web experiences using HTML, CSS, and JavaScript. My goal is to deliver high-quality projects that not only look great but also function seamlessly across different devices.
 
 ## 👨‍💻 About Me
 
